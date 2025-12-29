@@ -73,7 +73,6 @@ Project Management | Jira
 前職のプロジェクトでは、メンバーの入れ替わりが激しく、リーダーは、メンバーから寄せれられる質問への対応に常に追われている状況でした。そこで私は、環境構築に関する質問を中心に、自身でも対応可能と判断した質問への回答を積極的に実施しました。これをきっかけに、リーダーから環境構築の相談役としての役割を任せていただきました。
 
 ## Appendix
-- [ポートフォリオ](https://www.resume.id/netmullet)
 - [GitHub](https://github.com/netmullet)
 - [Zenn](https://zenn.dev/netmullet)
 
