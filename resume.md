@@ -55,7 +55,7 @@ Platform | Web
 Framework | Angular, Spring Boot
 Database | PostgreSQL
 Infrastructure | Docker, Kubernetes, AWS
-Source Management | AWS CodeCommit
+Source Management | Git, AWS CodeCommit
 Communication | Slack, Microsoft Teams
 Documentation | Microsoft Excel
 Project Management | Jira
